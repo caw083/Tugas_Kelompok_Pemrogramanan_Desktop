@@ -1,0 +1,16 @@
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.vbproj.GenerateResource.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.AssemblyInfo.vb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.exe
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.deps.json
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\bin\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\refint\Tic Tac Toe.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.pdb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop\Week 2\Tugas\Tic Tac Toe\obj\Debug\net8.0-windows\ref\Tic Tac Toe.dll
