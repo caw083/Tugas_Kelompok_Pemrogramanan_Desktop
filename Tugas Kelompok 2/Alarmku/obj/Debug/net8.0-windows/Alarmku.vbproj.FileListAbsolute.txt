@@ -1,0 +1,37 @@
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\bin\Debug\net8.0-windows\Alarmku.exe
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\bin\Debug\net8.0-windows\Alarmku.deps.json
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\bin\Debug\net8.0-windows\Alarmku.runtimeconfig.json
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\bin\Debug\net8.0-windows\Alarmku.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\bin\Debug\net8.0-windows\Alarmku.pdb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form1.resources
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.vbproj.GenerateResource.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.AssemblyInfoInputs.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.AssemblyInfo.vb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\refint\Alarmku.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.pdb
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.genruntimeconfig.cache
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\ref\Alarmku.dll
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form2.resources
+C:\Users\ASUS\3D Objects\Pemrograman Desktop 6\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form3.resources
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\bin\Debug\net8.0-windows\Alarmku.exe
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\bin\Debug\net8.0-windows\Alarmku.deps.json
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\bin\Debug\net8.0-windows\Alarmku.runtimeconfig.json
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\bin\Debug\net8.0-windows\Alarmku.dll
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\bin\Debug\net8.0-windows\Alarmku.pdb
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form1.resources
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form2.resources
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.Form3.resources
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.vbproj.GenerateResource.cache
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.AssemblyInfoInputs.cache
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.AssemblyInfo.vb
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.vbproj.CoreCompileInputs.cache
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.dll
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\refint\Alarmku.dll
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.pdb
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.genruntimeconfig.cache
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\ref\Alarmku.dll
+C:\Yosriko\SEMESTER 6\tugas\Alarmku (2)\Alarmku\obj\Debug\net8.0-windows\Alarmku.Resources.resources
