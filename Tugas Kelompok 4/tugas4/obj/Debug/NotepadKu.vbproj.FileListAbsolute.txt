@@ -1,0 +1,12 @@
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\bin\Debug\NotepadKu.exe.config
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\bin\Debug\NotepadKu.exe
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\bin\Debug\NotepadKu.pdb
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\bin\Debug\NotepadKu.xml
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.vbproj.AssemblyReference.cache
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.Form1.resources
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.Resources.resources
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.vbproj.GenerateResource.cache
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.vbproj.CoreCompileInputs.cache
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.exe
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.xml
+C:\Yosriko\SEMESTER 6\Pemograman Desktop\NotepadKu\NotepadKu\obj\Debug\NotepadKu.pdb

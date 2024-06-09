@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NotepadKu", "NotepadKu\NotepadKu.vbproj", "{D723489B-168B-41CD-90BC-2684F5D0B1F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D723489B-168B-41CD-90BC-2684F5D0B1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D723489B-168B-41CD-90BC-2684F5D0B1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D723489B-168B-41CD-90BC-2684F5D0B1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D723489B-168B-41CD-90BC-2684F5D0B1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472021BC-F905-4859-87AE-357B0C436921}
+	EndGlobalSection
+EndGlobal
